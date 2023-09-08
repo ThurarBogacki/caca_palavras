@@ -1,0 +1,3 @@
+To compile
+gcc -o palavras main.c func.c
+start palavras
